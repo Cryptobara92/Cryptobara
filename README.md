@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bizu92
-- 👀 I’m interested in web developing, pentesting
-- 🌱 I’m currently learning web developing
-- 💞️ I’m looking to collaborate on (no frens)
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Bizu92 (Andreas)
+- 👀 I’m interested in web development, robotics.
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me instagram: bizu925, twitter: Bizu92, email: hippogame23@gmail.com
 
 <!---
 Bizu92/Bizu92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
